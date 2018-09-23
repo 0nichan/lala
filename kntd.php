@@ -19,7 +19,7 @@ fungsi  spin ( $ uid , $ chn , $ client , $ token , $ amount , $ wait ) {
         flush ();
     }
 }
-cetak  " AWTO SPIN CAPING BY ANGGY \ n \ n " ;
+cetak   "  AWTO SPIN CAPING \ n \ n" ;
 echo  " UID? \ n Input: " ;
 $ uid  =  trim ( fgets ( STDIN ));
 echo  " ChannelId? \ n Input: " ;
